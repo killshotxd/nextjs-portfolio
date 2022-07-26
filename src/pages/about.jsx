@@ -1,3 +1,5 @@
+// disable-eslint
+
 import React from 'react'
 import { PaperIcon } from '@/configs/icons'
 import SocialIcons from '@/components/SocialIcons'
